@@ -9,11 +9,11 @@ Aplikasi <b>Absensi menggunakan livewirw</b>  yang digunakan untuk melakukan abs
 ## Instalasi
 #### Via Git
 ```bash
-git clone https://github.com/Kantrawibawa10/suryachandra_billing.git
+git clone https://github.com/Kantrawibawa10/Laravel-Livewire-Absensi.git
 ```
 
 ### Download ZIP
-[Link](https://github.com/Kantrawibawa10/suryachandra_billing/archive/refs/heads/master.zip)
+[Link](https://github.com/Kantrawibawa10/Laravel-Livewire-Absensi/archive/refs/heads/master.zip)
 
 
 # **Absensi App**
